@@ -1,5 +1,3 @@
----
-
 ### 🚀 About Me
 
 * 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
