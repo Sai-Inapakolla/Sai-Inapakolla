@@ -38,15 +38,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saiinapakolla576/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"
+         style="border:2px solid #ccc; border-radius:8px; padding:4px;"/>
   </a>
   &nbsp;
   <a href="https://github.com/Sai-Inapakolla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"
+         style="border:2px solid #ccc; border-radius:8px; padding:4px;"/>
   </a>
   &nbsp;
   <a href="mailto:inapakolla.sai1@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="36"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="36"
+         style="border:2px solid #ccc; border-radius:8px; padding:4px;"/>
   </a>
 </p>
 
