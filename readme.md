@@ -12,12 +12,12 @@
 
 * **2026**
 
-  * 🔹 **TeamX – SaaS Application** *(In Progress)*
-  * 🔹 More projects coming soon...
+   🔹 **TeamX – SaaS Application** *(In Progress)*
+   🔹 More projects coming soon...
 
 * **2025**
 
-  * 🔹 [Foodie Genie](https://user321.pythonanywhere.com/)
+   🔹 [Foodie Genie](https://user321.pythonanywhere.com/)
     → A web app for food-related recommendations (Flask-based)
 
 ---
@@ -28,9 +28,9 @@
 
 ### 📊 Currently Learning
 
-* 🔸 Data Structures & Algorithms (Java)
-* 🔸 Backend Development (Spring Boot + APIs)
-* 🔸 DevOps
+🔸 Data Structures & Algorithms (Java)
+🔸 Backend Development (Spring Boot + APIs)
+🔸 DevOps
 
 ---
 
