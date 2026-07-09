@@ -1,62 +1,98 @@
+# 👋 Hi, I'm Sai Inapakolla
+
 ### 🚀 About Me
 
-* 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-* 💻 Currently learning **Full Stack Development (Flask, MySQL, APIs)**
-* 🧠 Interested in **AI, Backend Systems, and Scalable Applications**
-* 📈 Actively improving **DSA and problem-solving skills**
-* 🎯 Goal: Land a solid developer role (4.5–6 LPA range)
+- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 💻 Currently learning ** AIML (Deep Learning , Machine Learning, Gen AI)**
+- 🧠 Interested in **AI, Backend Systems, and Scalable Applications**
+- 📈 Actively improving ** My Problem-Solving Skills**
+- 🎯 Goal: Enjoy the Life to the fullest while being responsible 🫶
 
 ---
 
-### 🛠️ Featured Projects
+## 🛠️ Featured Projects
 
-* **2026**
+### 📅 2026
+- 🔹 **TeamX** – Multi-Tenant SaaS Application
+- 🔹 **Aeros** – Flight Booking Application
+- 🔹 More exciting projects coming soon...
 
-   🔹 **TeamX – SaaS Application** *(In Progress)*
-  *🔹 More projects coming soon...
-
-* **2025**
-
-   🔹 [Foodie Genie](https://user321.pythonanywhere.com/)
-  *  → A web app for food-related recommendations (Flask-based)
-
----
-
-### 🧰 Tech Stack
+### 📅 2025
+- 🔹 **Foodie Genie**
+  - 🌐 https://user321.pythonanywhere.com/
+  - Flask-based web application for food recommendations
 
 ---
 
-### 📊 Currently Learning
+# 💻 Tech Stack
 
-*🔸 Data Structures & Algorithms (Java)
-*🔸 Backend Development (Spring Boot + APIs)
-*🔸 DevOps
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,sql" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,docker,linux,vscode" />
+</p>
+
+### 📚 Currently Exploring
+<p>
+<img src="https://skillicons.dev/icons?i=kafka,redis" />
+</p>
 
 ---
 
-### 🤝 Connect with Me (LinkedIn • GitHub • Email)
+## 📊 Currently Learning
+
+- 🔸 Artificial Intelligence & Machine Learning
+- 🔸 Spring Boot & REST APIs
+- 🔸 Apache Kafka
+- 🔸 Redis
+- 🔸 System Design
+
+---
+
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saiinapakolla576/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"
-         style="border:2px solid #ccc; border-radius:8px; padding:4px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;
   <a href="https://github.com/Sai-Inapakolla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"
-         style="border:2px solid #ccc; border-radius:8px; padding:4px;"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   &nbsp;
   <a href="mailto:inapakolla.sai1@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="36"
-         style="border:2px solid #ccc; border-radius:8px; padding:4px;"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
   </a>
 </p>
 
 ---
 
-### 👀 Profile Views
+## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sai-Inapakolla&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Sai-Inapakolla&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
