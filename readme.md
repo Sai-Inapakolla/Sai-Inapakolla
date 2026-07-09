@@ -5,7 +5,7 @@
 - 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
 - 💻 Currently learning **AIML (Deep Learning , Machine Learning, Gen AI)**
 - 🧠 Interested in **AI, Backend Systems, and Scalable Applications**
-- 📈 Actively improving ** My Problem-Solving Skills**
+- 📈 Actively improving **My Problem-Solving Skills**
 - 🎯 Goal: Enjoy the Life to the fullest while being responsible 🫶
 
 ---
