@@ -13,14 +13,18 @@
 ## 🛠️ Featured Projects
 
 ### 📅 2026
-- 🔹 **TeamX** – Multi-Tenant SaaS Application
-- 🔹 **Aeros** – Flight Booking Application
+- 🔹 **TeamX – Multi-Tenant SaaS Application** || Java | SpringBoot | MongoDB | RestAPI | Spring Security
+- 🔹 **Aeros – Flight Booking Application** || Java | Spring Boot | MySQL | Microservices | RestAPI
+- 🔹 **SafeGo - A Ride Booking Platform** || JavaScript| Node.js | Express | Python | Machine Learning | React
+- 🔹 **AstroML - A Cosmic Distance Calculator** || Python, Angular, Machine Learning
+- 🔹 **Portfolio** || Next.js | MongoDB
 - 🔹 More exciting projects coming soon...
 
 ### 📅 2025
-- 🔹 **Foodie Genie**
+- 🔹 **Foodie Genie - Flask-based web application for food recommendations** || Python | Machine Learning | React
   - 🌐 https://user321.pythonanywhere.com/
-  - Flask-based web application for food recommendations
+- 🔹 **BAAHUBALI - A Banking System** || Java | MySQL | Restful API's | Spring Security | React
+- 🔹 **Team Approval Intelligence - A loan Approval Predictor** || Cloudinary | MongoDB | Node.js | Python | Express | Machine Learning | Angular
 
 ---
 
